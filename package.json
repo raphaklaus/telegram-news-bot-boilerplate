@@ -1,0 +1,26 @@
+{
+  "name": "telegram-news-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaklaus/telegram-news-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaklaus/telegram-news-bot/issues"
+  },
+  "homepage": "https://github.com/raphaklaus/telegram-news-bot#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "dotenv": "^2.0.0",
+    "feed-read": "0.0.1",
+    "node-telegram-bot-api": "^0.24.0",
+    "request-promise": "^4.1.1"
+  }
+}
